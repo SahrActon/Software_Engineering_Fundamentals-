@@ -12,7 +12,7 @@ Software engineering Essential (Pluralsight)
 9.	Testing
 
 
-Algorithms and Data Structures 
+Algorithms and Data Structures (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )
 Introduction to Algorithms, MIT
 Algorithms Part 1 & Algorithms Part 2, Princeton, Coursera
 List of Algorithms, Wikipedia
@@ -21,7 +21,7 @@ Book: The Algorithm Design Manual, Steven S. Skiena
 
 Learning a language 
 
-Code programming languages 
+Code programming languages  (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )
 
 Online resources for beginning programmers:
 •	Java Programming: An Introduction to Software, Duke University, Coursera
@@ -74,6 +74,7 @@ o	HTML Fundamentals
 o	HTML Fundamentals 
 o	Semantic HTML 
 o	Meeting Web Accessibility Guidelines (Section 508/WCAG 2.0)
+
 2.	
 o	Practical HTML 5 
 o	HTML 5 web component fundamentals 
@@ -84,7 +85,7 @@ o	HTML browser caching
 o	HTML advance Topics 
 o	HTML web storage Indexed DB and file System 
 
-Testing 
+Testing (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )
 
 Learn how to catch bugs, create tests, and break your software.
 Online resources:
