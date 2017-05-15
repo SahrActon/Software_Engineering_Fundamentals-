@@ -13,7 +13,9 @@
 
 
 
-## Software engineering Essential (Pluralsight)  Algorithms and Data Structures ## *(GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) *
+## Software engineering Essential (Pluralsight)  Algorithms and Data Structures ## 
+    *(GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) *
+
 * Introduction to Algorithms, MIT
 * Algorithms Part 1 & Algorithms Part 2, Princeton, Coursera
 * List of Algorithms, Wikipedia
@@ -52,20 +54,24 @@
 * JavaScript objects and Prototype 
 * Practical Design patterns in JavaScript 
 * JavaScript Design patterns 
+
 ### 3 ###
 * Advance Techniques in JavaScript and JQuery 
 * JavaScript Best Practices 
 * Rapid ES6 training 
 
 ##Node.js(Pluralsight)##
+
 ### 1 ###	
 * Learning to Program – Part 1: Getting started  
 * NPM playbook 
 * Building a JavaScript development Environment 
+
 ### 2 ###	
 *Introduction to Nodejs 
 * Building web applications with Nodejs and Express 4*0
 * RESTful web services with Node*js and express 
+
 ### 3 ###	 
 * Node.js Testing strategies   
 * Node Application Patterns 
@@ -88,11 +94,13 @@
 * WebRTC Fundamentals 
 * HTML audio, video and WebRTC
 * HTML browser caching 
+
 ### 3 ###
 * HTML advance Topics 
 * HTML web storage Indexed DB and file System 
 
-## Testing (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) ##
+## Testing ##
+### (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) ###
 
 * Learn how to catch bugs, create tests, and break your software.
 * Online resources:
