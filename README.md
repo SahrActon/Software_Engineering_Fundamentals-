@@ -49,57 +49,57 @@ Code programming languages  (GOOGLE -https://www.google.com/about/careers/studen
 * JavaScript Volume 3 
  
 2	
-*JavaScript objects and Prototype 
-*Practical Design patterns in JavaScript 
-*JavaScript Design patterns 
+* JavaScript objects and Prototype 
+* Practical Design patterns in JavaScript 
+* JavaScript Design patterns 
 3
-*Advance Techniques in JavaScript and JQuery 
-*JavaScript Best Practices 
-*Rapid ES6 training 
+* Advance Techniques in JavaScript and JQuery 
+*J avaScript Best Practices 
+* Rapid ES6 training 
 
 ##Node.js(Pluralsight)##
 1	
-*Learning to Program – Part 1: Getting started  
-*NPM playbook 
-*Building a JavaScript development Environment 
+* Learning to Program – Part 1: Getting started  
+* NPM playbook 
+* Building a JavaScript development Environment 
 2	
 *Introduction to Nodejs 
-*Building web applications with Nodejs and Express 4*0
-*RESTful web services with Node*js and express 
+* Building web applications with Nodejs and Express 4*0
+* RESTful web services with Node*js and express 
 3	 
 * Node.js Testing strategies   
-*Node Application Patterns 
-*Advance Node*js
+* Node Application Patterns 
+* Advance Node*js
 
-##React (Pluralsight)##
-**Coming soon**
+## React (Pluralsight) ##
+** Coming soon **
 
 
-##HTML 5 (Pluralsight)##
+## HTML 5 (Pluralsight) ##
 1	
-*HTML Fundamentals 
-*HTML Fundamentals 
-*Semantic HTML 
-*Meeting Web Accessibility Guidelines (Section 508/WCAG 2*0)
+* HTML Fundamentals 
+* HTML Fundamentals 
+* Semantic HTML 
+* Meeting Web Accessibility Guidelines (Section 508/WCAG 2*0)
 
 2	
-*Practical HTML 5 
-*HTML 5 web component fundamentals 
-*WebRTC Fundamentals 
-*HTML audio, video and WebRTC
-*HTML browser caching 
+* Practical HTML 5 
+* HTML 5 web component fundamentals 
+* WebRTC Fundamentals 
+* HTML audio, video and WebRTC
+* HTML browser caching 
 3	
-*HTML advance Topics 
-*HTML web storage Indexed DB and file System 
+* HTML advance Topics 
+* HTML web storage Indexed DB and file System 
 
-##Testing (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )##
+## Testing (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) ##
 
-*Learn how to catch bugs, create tests, and break your software.
-*Online resources:
-*Software Testing, Udacity
-*Software Debugging, Udacity
-*Develop a strong knowledge of operating systems 
-*Online resources:
-*Computer Science 162, UC Berkeley, YouTube
+* Learn how to catch bugs, create tests, and break your software.
+* Online resources:
+* Software Testing, Udacity
+* Software Debugging, Udacity
+* Develop a strong knowledge of operating systems 
+* Online resources:
+* Computer Science 162, UC Berkeley, YouTube
 
-##Practice, Practice, Practice, Practice, Practice, Practice, and more Practice, Practice## 
+## Practice, Practice, Practice, Practice, Practice, Practice, and more Practice, Practice ## 
