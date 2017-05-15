@@ -37,6 +37,7 @@ Online resources for more experienced programmers:
 
 Other programming languages 
 
+Web Development Path 
 JavaScript (Pluralsight)
 
 1.	
