@@ -1,6 +1,6 @@
-#Thomas Acton PATH =--------^~~~~~>#
+# Thomas Acton PATH =--------^~~~~~> #
 
-##Software engineering Essential (Pluralsight)## 
+## Software engineering Essential (Pluralsight) ## 
 1.	Introduction19m 20s
 2.	Software Processes47m 54s
 3.	Requirements Engineering39m 36s
@@ -13,7 +13,7 @@
 
 
 
-##Software engineering Essential (Pluralsight)## Algorithms and Data Structures (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )##
+## Software engineering Essential (Pluralsight)## Algorithms and Data Structures (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )##
 Introduction to Algorithms, MIT
 Algorithms Part 1 & Algorithms Part 2, Princeton, Coursera
 List of Algorithms, Wikipedia
@@ -25,29 +25,29 @@ Book: The Algorithm Design Manual, Steven S. Skiena
 
 Code programming languages  (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )
 
-###Online resources for beginning programmers:###
-*Java Programming: An Introduction to Software, Duke University, Coursera
-*Learn to Program: The Fundamentals, University of Toronto, Coursera
-*Introduction to Programming in Java, MIT
-*Google's Python Class
-*Introduction to Interactive Programming in Python, Rice University, Coursera
+### Online resources for beginning programmers: ###
+* Java Programming: An Introduction to Software, Duke University, Coursera
+* Learn to Program: The Fundamentals, University of Toronto, Coursera
+* Introduction to Programming in Java, MIT
+* Google's Python Class
+* Introduction to Interactive Programming in Python, Rice University, Coursera
 
-###Online resources for more experienced programmers:###
-*Java Programming: Data Structures and Beyond, University of California San Diego, specialization on Coursera
-*Design of Computer Programs, Udacity
-*Learn to Program: Crafting Quality Code, University of Toronto, Coursera
-*Introduction to Programming Languages, Brown University
+### Online resources for more experienced programmers: ###
+* Java Programming: Data Structures and Beyond, University of California San Diego, specialization on Coursera
+* Design of Computer Programs, Udacity
+* Learn to Program: Crafting Quality Code, University of Toronto, Coursera
+* Introduction to Programming Languages, Brown University
 
-##Other programming languages ##
+## Other programming languages ##
 
-#Web Development Path#
-###JavaScript (Pluralsight)###
+# Web Development Path #
+### JavaScript (Pluralsight) ###
 
 1.	
-JavaScript Volume 1 
-*JavaScript Volume 2
-*JavaScript Volume 3 
-* 
+* JavaScript Volume 1 
+* JavaScript Volume 2
+* JavaScript Volume 3 
+ 
 2	
 *JavaScript objects and Prototype 
 *Practical Design patterns in JavaScript 
@@ -67,7 +67,7 @@ JavaScript Volume 1 
 *Building web applications with Nodejs and Express 4*0
 *RESTful web services with Node*js and express 
 3	 
-*Node*js Testing strategies   
+* Node.js Testing strategies   
 *Node Application Patterns 
 *Advance Node*js
 
