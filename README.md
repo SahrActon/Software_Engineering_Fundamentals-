@@ -13,17 +13,17 @@
 
 
 
-## Software engineering Essential (Pluralsight)## Algorithms and Data Structures (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )##
-Introduction to Algorithms, MIT
-Algorithms Part 1 & Algorithms Part 2, Princeton, Coursera
-List of Algorithms, Wikipedia
-List of Data Structures Wikipedia
-Book: The Algorithm Design Manual, Steven S. Skiena
+## Software engineering Essential (Pluralsight)  Algorithms and Data Structures ## *(GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) *
+* Introduction to Algorithms, MIT
+* Algorithms Part 1 & Algorithms Part 2, Princeton, Coursera
+* List of Algorithms, Wikipedia
+* List of Data Structures Wikipedia
+* Book: The Algorithm Design Manual, Steven S. Skiena
 
 
-##Software engineering Essential (Pluralsight)## Learning a language ##
+# #Software engineering Essential (Pluralsight)## Learning a language ##
 
-Code programming languages  (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html )
+* Code programming languages  (GOOGLE -https://www.google.com/about/careers/students/guide-to-technical-development.html ) * 
 
 ### Online resources for beginning programmers: ###
 * Java Programming: An Introduction to Software, Duke University, Coursera
@@ -38,35 +38,35 @@ Code programming languages  (GOOGLE -https://www.google.com/about/careers/studen
 * Learn to Program: Crafting Quality Code, University of Toronto, Coursera
 * Introduction to Programming Languages, Brown University
 
-## Other programming languages ##
+# Other programming languages #
 
 # Web Development Path #
-### JavaScript (Pluralsight) ###
+## JavaScript (Pluralsight) ##
 
-1.	
+### 1 ###	
 * JavaScript Volume 1 
 * JavaScript Volume 2
 * JavaScript Volume 3 
  
-2	
+### 2 ###
 * JavaScript objects and Prototype 
 * Practical Design patterns in JavaScript 
 * JavaScript Design patterns 
-3
+### 3 ###
 * Advance Techniques in JavaScript and JQuery 
-*J avaScript Best Practices 
+* JavaScript Best Practices 
 * Rapid ES6 training 
 
 ##Node.js(Pluralsight)##
-1	
+### 1 ###	
 * Learning to Program – Part 1: Getting started  
 * NPM playbook 
 * Building a JavaScript development Environment 
-2	
+### 2 ###	
 *Introduction to Nodejs 
 * Building web applications with Nodejs and Express 4*0
 * RESTful web services with Node*js and express 
-3	 
+### 3 ###	 
 * Node.js Testing strategies   
 * Node Application Patterns 
 * Advance Node*js
@@ -76,19 +76,19 @@ Code programming languages  (GOOGLE -https://www.google.com/about/careers/studen
 
 
 ## HTML 5 (Pluralsight) ##
-1	
+### 1 ###
 * HTML Fundamentals 
 * HTML Fundamentals 
 * Semantic HTML 
 * Meeting Web Accessibility Guidelines (Section 508/WCAG 2*0)
 
-2	
+### 2 ###	
 * Practical HTML 5 
 * HTML 5 web component fundamentals 
 * WebRTC Fundamentals 
 * HTML audio, video and WebRTC
 * HTML browser caching 
-3	
+### 3 ###
 * HTML advance Topics 
 * HTML web storage Indexed DB and file System 
 
