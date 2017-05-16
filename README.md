@@ -111,3 +111,7 @@
 * Computer Science 162, UC Berkeley, YouTube
 
 ## Practice, Practice, Practice, Practice, Practice, Practice, and more Practice, Practice ## 
+
+
+### Cheat sheet for Markdown document ###
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
