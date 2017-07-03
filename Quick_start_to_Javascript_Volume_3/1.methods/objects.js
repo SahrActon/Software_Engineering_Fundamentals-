@@ -26,6 +26,7 @@ var myCoffee =  {
 myCoffee.temperature = "cold";
 myCoffee["ouncesOfCoffee"] = 90;
 alert(myCoffee.ouncesOfCoffee);
+console.log("Here is the second element in the array "+ myCoffee.flavor);
 myCoffee.reheat();
 
 
