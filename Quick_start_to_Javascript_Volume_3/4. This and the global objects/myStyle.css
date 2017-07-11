@@ -1,0 +1,16 @@
+h1 {
+    font-size: 120px;
+    color: darkgreen;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#welcomMSG  {
+    color: pink;
+    background: yellow;
+}
+
+#welcomMSG  :hover {
+    color: pink;
+    background: red;
+}

@@ -1,6 +1,4 @@
-/**
- * Created by tommyacton on 15/05/2017.
- */
+
 
 function areaCalculator(number1, number2) {
      var doTheWork  =  number1 * number2;
@@ -15,3 +13,4 @@ function randomMathsPrint() {
 }
 
 randomMathsPrint();
+
