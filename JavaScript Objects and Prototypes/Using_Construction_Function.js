@@ -28,3 +28,4 @@ function Person (name, age, height, weight){
 
 var person1 = new Person("Thomas", 23, 180, 78);
 console.log(person1)
+//
