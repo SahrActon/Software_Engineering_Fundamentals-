@@ -5,17 +5,12 @@
     <option name="CUSTOM_SCOPE_NAME" value="Current File" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c813253-9b7c-4334-a280-ebda7eda12e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/mainCss.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Self-learning/Working_with_canvas/mainCSS.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Self-learning/pure javascript/UnderstandingCallbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Self-learning/pure javascript/index.html" />
+    <list default="true" id="1c813253-9b7c-4334-a280-ebda7eda12e0" name="Default" comment="pushing more changes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript Objects and Prototypes/Classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript Objects and Prototypes/The_Dynamic_Nature_of_Javascript_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript Objects and Prototypes/Using_Construction_Function.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js" afterPath="$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js" />
     </list>
     <ignored path="Software_Engineering_Fundamentals-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +52,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visual.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="visual.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
+            <state relative-caret-position="840">
               <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="The Dynamic Nature of Javascript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="The_Dynamic_Nature_of_Javascript_2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/The_Dynamic_Nature_of_Javascript_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Using_Construction_Function.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Using_Construction_Function.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Classes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Classes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -72,10 +107,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="CoffeeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,10 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_3/displayCode.html" />
-        <option value="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_3/Q&amp;A.md" />
-        <option value="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_3/objects.js" />
-        <option value="$PROJECT_DIR$/Quick start JavaScript Volume 2/Looping over an array/Looping.js" />
         <option value="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_2/Looping over an array/Looping.js" />
         <option value="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_2/Switch_Statment/main.js" />
         <option value="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_2/Plan then create/mainStyle.css" />
@@ -125,7 +156,6 @@
         <option value="$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.html" />
         <option value="$PROJECT_DIR$/Self-learning/Working_with_canvas/mainCSS.css" />
         <option value="$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.js" />
-        <option value="$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js" />
         <option value="$PROJECT_DIR$/Learning Visuals/Music Effects/home.html" />
         <option value="$PROJECT_DIR$/Learning Visuals/Music Effects/main_css.css" />
         <option value="$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual_1.css" />
@@ -136,6 +166,11 @@
         <option value="$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/mainCss.css" />
         <option value="$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/visual.coffee" />
         <option value="$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript 2.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Prototypes/The_Dynamic_Nature_of_Javascript_2.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Prototypes/Using_Construction_Function.js" />
+        <option value="$PROJECT_DIR$/JavaScript Objects and Prototypes/Classes.js" />
       </list>
     </option>
   </component>
@@ -167,12 +202,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
               <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Objects and Prototypes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
@@ -196,8 +238,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,18 +257,19 @@
     <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Learning Visuals/Music Effects" />
-      <recent name="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_3/2.object Constructor" />
-      <recent name="$PROJECT_DIR$/Quick start JavaScript Volume 2/forLoops :)" />
-      <recent name="$PROJECT_DIR$/Basic_Template" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Learning Visuals/Music Effects/project_1" />
       <recent name="$PROJECT_DIR$/Self-learning/Working_with_canvas" />
       <recent name="$PROJECT_DIR$/Express-Tut/1 - Hello-World" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Learning Javascript" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaScript Objects and Prototypes" />
+      <recent name="$PROJECT_DIR$/Learning Visuals/Music Effects" />
+      <recent name="$PROJECT_DIR$/Quick_start_to_Javascript_Volume_3/2.object Constructor" />
+      <recent name="$PROJECT_DIR$/Quick start JavaScript Volume 2/forLoops :)" />
+      <recent name="$PROJECT_DIR$/Basic_Template" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -350,7 +391,8 @@
       <workItem from="1511192939476" duration="20000" />
       <workItem from="1511192982564" duration="18000" />
       <workItem from="1511357080939" duration="3244000" />
-      <workItem from="1511777797205" duration="11000" />
+      <workItem from="1511777797205" duration="4024000" />
+      <workItem from="1511782063636" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Some updates&#10;">
       <created>1499067859712</created>
@@ -387,24 +429,32 @@
       <option name="project" value="LOCAL" />
       <updated>1506004596922</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pushing more changes">
+      <created>1511777827234</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511777827234</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103490000" />
+    <option name="totallyTimeSpent" value="107706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23222749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25645077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -454,7 +504,8 @@
     <MESSAGE value="day 1 evening work" />
     <MESSAGE value="day 1 evening good night" />
     <MESSAGE value="i have not committed in a while, so here it it" />
-    <option name="LAST_COMMIT_MESSAGE" value="i have not committed in a while, so here it it" />
+    <MESSAGE value="pushing more changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing more changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -478,27 +529,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="111" column="16" lean-forward="false" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_2/Plan then create/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="45" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_2/Plan then create/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_3/0.Objects/objects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -778,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/visual.coffee" />
     <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/mainCss.css" />
     <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/home.html" />
@@ -806,8 +829,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
+        <state relative-caret-position="840">
           <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/The Dynamic Nature of Javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/The_Dynamic_Nature_of_Javascript_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Classes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Using_Construction_Function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
           <folding />
         </state>
       </provider>
