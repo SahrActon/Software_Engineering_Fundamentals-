@@ -1,6 +1,5 @@
 'use strict'
 
-
 /**
  * using the new key word
 
@@ -8,14 +7,11 @@
 
  */
 
-
-
 function Cat(){
     this.color = 'White'
     this.name = 'Fluffy cat';
 
 }
-
 var cat1  = new Cat();
 console.log(cat1)
 

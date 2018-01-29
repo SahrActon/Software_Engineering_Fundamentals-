@@ -1,5 +1,6 @@
 
 
+/*
 class Person {
 
     constructor(name, age, relationshipStatus){
@@ -14,4 +15,4 @@ class Person {
 }
 
 var person1 = new person("Thomas Acton", 24, "Relationship" );
-//
+//*/

@@ -3,7 +3,8 @@ window.onload = function() {
     var file = document.getElementById("thefile");
     var audio = document.getElementById("audio");
 
-    file.onchange = function() {
+
+    file.onloadstart = function() {
         var files = this.files;
         audio.src = URL.createObjectURL(files[0]);
         audio.load();
@@ -47,14 +48,14 @@ window.onload = function() {
             for (var i = 0; i < bufferLength; i++) {
                 barHeight = dataArray[i];
 
-                var r = barHeight + (200 * (i/bufferLength));
+                var r = barHeight + (100 * (i/bufferLength));
                 var g = 190 * (i/bufferLength);
                 var b = 123;
 
                 ctx.fillStyle = "rgb(" + r + "," + g + "," + b + ")";
                 ctx.fillRect(x, HEIGHT - barHeight, barWidth, barHeight);
 
-                x += barWidth + 4 ;
+                x += barWidth + 2 ;
             }
         }
 
