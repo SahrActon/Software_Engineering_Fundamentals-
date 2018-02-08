@@ -1,0 +1,38 @@
+{
+  "name": "bookstore",
+  "description": "Creating a book store, for learning sake",
+  "main": "app.js",
+  "authors": [
+    "Sahr Thomas Acton"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tommy-acton/Software_Engineering_Fundamentals-",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^4.0.0",
+    "jquery": "^3.3.1",
+    "font-awesome": "^4.7.0"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.min.css",
+        "less/boostratp.less"
+      ]
+    },
+    "font-awesome": {
+      "main":[
+        "less/font-awesome",
+        "css/font-awesome.min.css",
+        "scss/font-awesome.scss"
+      ]
+    }
+  }
+}
