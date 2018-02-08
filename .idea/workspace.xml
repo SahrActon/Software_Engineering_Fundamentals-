@@ -6,12 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c813253-9b7c-4334-a280-ebda7eda12e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/fh/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/del_me_Stuff.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Building Web applications with Nodejs/.gitignore" afterPath="$PROJECT_DIR$/Building Web applications with Nodejs/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/.gitignore" afterPath="$PROJECT_DIR$/Projects/.gitignore" />
     </list>
     <ignored path="Software_Engineering_Fundamentals-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -562,7 +557,7 @@
       <workItem from="1517220516584" duration="246000" />
       <workItem from="1518025305601" duration="2992000" />
       <workItem from="1518088787990" duration="87000" />
-      <workItem from="1518088887263" duration="1920000" />
+      <workItem from="1518088887263" duration="1958000" />
     </task>
     <task id="LOCAL-00001" summary="Some updates&#10;">
       <created>1499067859712</created>
@@ -662,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518090466014</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding the git ignore files">
+      <created>1518090861793</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1518090861793</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170034000" />
+    <option name="totallyTimeSpent" value="170072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -759,7 +761,8 @@
     <MESSAGE value="pushing more changes" />
     <MESSAGE value="removed all node modules" />
     <MESSAGE value="adding the git ignor files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding the git ignor files" />
+    <MESSAGE value="adding the git ignore files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the git ignore files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
