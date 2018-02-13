@@ -1,0 +1,32 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-6">
+      <h3> Im the App component</h3>
+      <hr>
+      <app-servers></app-servers>
+      <hr>
+      <app-warning-alert></app-warning-alert>
+      <hr>
+      <app-success-alert></app-success-alert>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <label class="col-form-label input-group pull-right"> Please type in your username </label>
+  <input class="form-control" type="text" [(ngModel)]="userName">
+  <hr>
+  <p> Your username is:  {{userName}}</p>
+  <button class="btn btn-md btn-success"  [disabled]="!userName" (click)="onSetUserName()" > Set user name </button>
+  <button class="btn btn-md btn-primary" [disabled]="userName === '' " (click)="onRestUsernme()">Reset my user name </button>
+
+  <hr>
+  <button class="btn btn-md btn-primary" (click)="onToggleDetails()">Display password</button>
+  <p *ngIf="showSecret"> Secret Password = Tuna </p>
+  <div
+    *ngFor="let logItem of countClick"
+    [ngStyle]="{backgroundColor: logItem >= 5 ? 'orange' : 'transparent'}"
+    [ngClass]="{'white-text': logItem >= 5}"
+  >{{ logItem }} </div>
+</div>

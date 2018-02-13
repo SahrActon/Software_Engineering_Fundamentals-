@@ -6,6 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c813253-9b7c-4334-a280-ebda7eda12e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/Learning/project2/src/app/server/server.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/Learning/project2/src/app/server/server.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/Learning/project2/src/app/server/server.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/Learning/project2/src/app/server/server.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Software_Engineering_Fundamentals-.iws" />
@@ -27,7 +31,7 @@
     <favorites_list name="Software_Engineering_Fundamentals-" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="project.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/project.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -221,11 +225,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Angular/Learning/project2/node_modules" />
     <handled-path value="$PROJECT_DIR$/Projects/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="1280" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -270,7 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,40 +291,19 @@
             <path>
               <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
               <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
               <item name="Building Web applications with Nodejs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
-              <item name="Learning Javascript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
-              <item name="Learning Visuals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="fh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Software_Engineering_Fundamentals-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Software_Engineering_Fundamentals-" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,7 +313,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/timeline 2" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.jscs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
     <property name="js.eslint.nodeInterpreter" value="project" />
@@ -557,7 +541,10 @@
       <workItem from="1517220516584" duration="246000" />
       <workItem from="1518025305601" duration="2992000" />
       <workItem from="1518088787990" duration="87000" />
-      <workItem from="1518088887263" duration="1958000" />
+      <workItem from="1518088887263" duration="2328000" />
+      <workItem from="1518351923205" duration="181000" />
+      <workItem from="1518440793470" duration="321000" />
+      <workItem from="1518471284556" duration="705000" />
     </task>
     <task id="LOCAL-00001" summary="Some updates&#10;">
       <created>1499067859712</created>
@@ -664,25 +651,31 @@
       <option name="project" value="LOCAL" />
       <updated>1518090861793</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="adding the git ignore files">
+      <created>1518090888496</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1518090888496</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170072000" />
+    <option name="totallyTimeSpent" value="171649000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="1024" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2776603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23272438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27807972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19115324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1788793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -795,13 +788,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Self-learning/pure javascript/UnderstandingCallbacks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Self-learning/pure javascript/UnderstandingCallbacks.js" />
     <entry file="file://$PROJECT_DIR$/del_me_Stuff.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -809,103 +796,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Self-learning/Working_with_canvas/mainCSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-          <folding>
-            <element signature="e#139#1499#0" expanded="false" />
-            <element signature="e#193#211#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Self-learning/Working_with_canvas/mainCSS.css" />
+    <entry file="file://$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.html" />
+    <entry file="file://$PROJECT_DIR$/Self-learning/Working_with_canvas/a4.js" />
     <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/visual.coffee" />
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/Using_Construction_Function.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/The_Dynamic_Nature_of_Javascript_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/The Dynamic Nature of Javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/Classes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/mainCss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/visual.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/mainCss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/Using_Construction_Function.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/The_Dynamic_Nature_of_Javascript_2.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/The Dynamic Nature of Javascript.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/Creating Javascript Objects/Classes.js" />
+    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/mainCss.css" />
+    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/visual.js" />
+    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/mainCss.css" />
+    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/home.html" />
+    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_1/visual.js" />
+    <entry file="file://$PROJECT_DIR$/Learning Visuals/Music Effects/project_2/home.html" />
     <entry file="file://$PROJECT_DIR$/Building Web applications with Nodejs/npm-debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -927,79 +831,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Prototypes and Inheritance/notes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/enmerable_attribute.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#584#878#0" expanded="false" />
-            <element signature="e#880#1120#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/description.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/using_Brackets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/configurableProperties.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/getters &amp; setters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Prototypes and Inheritance/notes.md" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/enmerable_attribute.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/description.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/using_Brackets.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/configurableProperties.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Object Properties/getters &amp; setters.js" />
     <entry file="file://$PROJECT_DIR$/../../../Programming /esLint_Config.eslintrc" />
-    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Prototypes and Inheritance/getting Started with prototype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Objects and Prototypes/JavaScript Prototypes and Inheritance/getting Started with prototype.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/bower_components/bootstrap/.eslintrc.json" />
     <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/bower_components/bootstrap/.bower.json" />
-    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/.bowerrc" />
     <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/public/javascripts/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1007,27 +850,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/.jshintrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/.jscsrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/.jshintrc" />
+    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/app.js" />
+    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/.jscsrc" />
     <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/public/lib/bootstrap/.eslintrc.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3064">
@@ -1035,13 +860,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/gulpfile.js" />
     <entry file="file://$PROJECT_DIR$/Projects/1_Book_Store/public/lib/bootstrap/.bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1075,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
