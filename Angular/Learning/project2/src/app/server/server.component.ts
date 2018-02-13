@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./server.component.css']
 
 })
-export class ServerComponent implements OnInit {
+export class ServerComponent {
 
   serverId = Math.random() ;
   serverStatus = 'Online' ;
