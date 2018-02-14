@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -8,19 +8,30 @@ import { Component } from '@angular/core';
 export class AppComponent {
   serverElements = [{type: 'server', name: 'Testserver', content: 'Just a test!'}];
 
-  onServerAdded(serverData: {serverName: string, serverContent: string}) {
-       this.serverElements.push({
-         type: 'server',
-         name: serverData.serverName,
-         content: serverData.serverContent
-       });
+  constructor() {
   }
 
-  onBlueprintAdded(bluePrintData: {serverName: string, serverContent: string}) {
-      this.serverElements.push({
-        type: 'blueprint',
-        name: bluePrintData.serverName,
-        content: bluePrintData.serverContent
-      });
-    }
+  onServerAdded(serverData: { serverName: string, serverContent: string }) {
+    this.serverElements.push({
+      type: 'server',
+      name: serverData.serverName,
+      content: serverData.serverContent
+    });
+  }
+
+  onBlueprintAdded(bluePrintData: { serverName: string, serverContent: string }) {
+    this.serverElements.push({
+      type: 'bluePrint',
+      name: bluePrintData.serverName,
+      content: bluePrintData.serverContent
+    });
+  }
+
+  onOrangePrintAdded(orangePrintData: { serverName: string, serverContent: string } ) {
+    this.serverElements.push({
+      type: 'orangePrint' ,
+      name: orangePrintData.serverName ,
+      content: orangePrintData.serverContent
+    });
+  }
 }

@@ -2,13 +2,16 @@
   <app-cockpit
     (serverCreated)="onServerAdded($event)"
     (blueprintCreated)="onBlueprintAdded($event)"
+    (orangeprintCreated)="onOrangePrintAdded($event)"
   ></app-cockpit>
   <hr>
   <div class="row">
     <div class="col-xs-12">
       <app-server-element
-      *ngFor="let serverElement of serverElements"
-      [serverElement]="serverElement"></app-server-element>
+        *ngFor="let serverElement of serverElements"
+        [serverElement]="serverElement"></app-server-element>
     </div>
   </div>
 </div>
+
+<p> Hello </p>
