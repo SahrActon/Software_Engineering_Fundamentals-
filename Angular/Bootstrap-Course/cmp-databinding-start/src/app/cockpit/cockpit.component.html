@@ -4,11 +4,11 @@
       <p>Add new Servers or blueprints!</p>
       <label>Server Name</label>
       <!--<input type="text" class="form-control" [(ngModel)]="newServerName">-->
-      <input type="text" class="form-control"#serverNameInput value="Server">
+      <input type="text" class="form-control"#serverNameInput placeholder="Please insert your Server here">
 
       <label>Server Content</label>
       <!--<input type="text" class="form-control" [(ngModel)]="newServerContent">-->
-      <input type="text" class="form-control" #newServerContent value="Server Content">
+      <input type="text" class="form-control" #serverContentInput placeholder="Please insert your Server Content">
 
       <br>
       <button class="btn btn-success" (click)="onAddServer(serverNameInput)">Add Server</button>
@@ -16,3 +16,4 @@
       <button class="btn btn-warning" (click)="onAddOrangePrint(serverNameInput)"> Add Orange Print</button>
     </div>
   </div>
+

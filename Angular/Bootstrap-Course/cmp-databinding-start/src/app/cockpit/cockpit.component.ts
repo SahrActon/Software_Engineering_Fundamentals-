@@ -10,7 +10,7 @@ export class CockpitComponent implements OnInit {
   @Output() blueprintCreated = new EventEmitter<{ serverName: string, serverContent: string}>();
   @Output() orangeprintCreated = new EventEmitter<{ serverName: string, serverContent: string}>();
   // Variables here
-  @ViewChild('newServerContent') serverContentInput: ElementRef;
+  @ViewChild('serverContentInput') serverContentInput: ElementRef;
 
   constructor() {
   }
