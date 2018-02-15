@@ -34,4 +34,8 @@ export class AppComponent {
       content: orangePrintData.serverContent
     });
   }
+
+  onChangeFirst() {
+
+  }
 }
