@@ -1,0 +1,67 @@
+<div class="container">
+  <p class="text-right"> This part is for assignment 1 </p>
+  <app-success-alert></app-success-alert>
+  <app-warning-alert></app-warning-alert>
+</div>
+<hr>
+<div class="container">
+  <p class="text-right"> This part is for assignment 2 </p>
+  <label for="usneName">Username:</label>
+  <input id="usneName" type="text" class="form-control input-sm"  placeholder="Please type your username" [(ngModel)]="userName">
+  <br>
+  <p> Your username is : {{userName}}</p>
+
+  <button class="btn btn-primary" [disabled]="!userName" (click)="onclearUserName()">Clear me</button>
+</div>
+<hr>
+<div class="container">
+  <p class="text-right"> This part is for assignment 3.a </p>
+
+  <!--<button class="btn btn-primary" (click)="showConttent = !showConttent">Display details </button>-->
+  <button class="btn btn-primary" (click)="onClickCounter()">Display details </button>
+  <p *ngIf="showConttent" > {{content}} </p>
+  <br>
+  <div *ngFor="let clickcount of clickCounter"> {{clickCounter}}</div>
+</div>
+
+<hr>
+<div class="container">
+  <p class="text-right"> This part is for assignment 3(redo)</p>
+  <!--<button class="btn btn-primary" (click)="showContent_b = !showContent_b"> Display details(redo)</button>-->
+  <button class="btn btn-primary" (click)="onToggle()"> Display details(redo)</button>
+  <p *ngIf="showContent_b"> Hello Thomas Acton how are you doing today </p>
+
+  <div
+    *ngFor="let logItem of logClicks"
+    [ngStyle]="{backgroundColor: logItem >= 5 ? 'blue' : 'transparent'}"
+    [ngClass]="{'white-text' : logItem >= 5}"
+  > {{logItem}}</div>
+</div>
+  <hr>
+
+  <div>
+    <div class="container">
+    <p class="text-right">This part is for assignment  4</p>
+    <app-game-control (interValFired)="onInterValFired($event)">
+    </app-game-control>
+      <!--<app-odd *ngFor="let oddNumber of oddNumbers" [odd]="oddNumber"></app-odd>
+      <app-even *ngFor="let evenNumber of evenNumbers" [even]="evenNumber"></app-even>-->
+
+      <table class="table table-condensed table-hover ">
+        <thead class="thead">
+        <tr>
+          <th scope="col">Odd Number</th>
+          <th scope="col">Even Number</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td class="info"> <app-odd *ngFor="let oddNumber of oddNumbers" [odd]="oddNumber"></app-odd></td>
+          <td class="success"> <app-even *ngFor="let evenNumber of evenNumbers" [even]="evenNumber"></app-even></td>
+        </tr>
+        </tbody>
+      </table>
+
+  </div>
+</div>
+

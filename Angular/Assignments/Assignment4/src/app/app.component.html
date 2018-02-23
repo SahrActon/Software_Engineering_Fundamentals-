@@ -1,0 +1,28 @@
+<div class="container">
+<div class="col">
+  <h4>Assignment 4 </h4>
+  <!--Game component here -->
+  <div class="row">
+    <div class="col-xs-12">
+      <app-game-control (interValFired)="onInterValFired($event)"></app-game-control>
+    </div>
+  </div>
+
+  <!--even number component here -->
+  <div class="row">
+    <div class="col-xs-12">
+      <app-even></app-even>
+    </div>
+  </div>
+
+  <!--Odd number component here -->
+  <div class="row">
+    <div class="col-xs-12">
+      <app-odd *ngFor="let oddNumber  of oddNumbers" [number]="oddNumber"></app-odd>
+      <app-even *ngFor="let evenNumber  of evenNumbers" [number]="evenNumber"></app-even>
+    </div>
+  </div>
+
+  </div>
+</div>
+

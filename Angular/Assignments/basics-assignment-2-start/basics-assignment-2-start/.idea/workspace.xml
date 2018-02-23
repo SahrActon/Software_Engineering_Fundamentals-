@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa6fb1f-6287-4ac9-bf8a-327fd7acc8d8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/.angular-cli.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/e2e/app.e2e-spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/e2e/app.po.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/e2e/tsconfig.e2e.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/protractor.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/app.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/app.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/app.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/app.module.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/even/even.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/even/even.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/even/even.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/game-control/game-control.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/game-control/game-control.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/game-control/game-control.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/odd/odd.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/odd/odd.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/app/odd/odd.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/assets/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/environments/environment.prod.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/environments/environment.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/main.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/polyfills.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/test.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/tsconfig.app.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/tsconfig.spec.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/src/typings.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/tsconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Assignment4/tslint.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/.idea/assignment1 starting code.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/.idea/project-template.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/.angular-cli.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/e2e/app.e2e-spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/e2e/app.po.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/e2e/tsconfig.e2e.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/how-to-use.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/protractor.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/app/app.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/app/app.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/app/app.component.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/app/app.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/app/app.module.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/assets/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/environments/environment.prod.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/environments/environment.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/main.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/polyfills.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/test.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/tsconfig.app.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/tsconfig.spec.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/src/typings.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/tsconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1 starting code/project-template/project-template/tslint.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/.angular-cli.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/e2e/app.e2e-spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/e2e/app.po.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/e2e/tsconfig.e2e.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/protractor.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/app.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/app.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/app.component.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/app.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/app.module.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/success-alert/success-alert.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/success-alert/success-alert.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/success-alert/success-alert.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/warning-alert/warning-alert.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/warning-alert/warning-alert.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/app/warning-alert/warning-alert.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/assets/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/environments/environment.prod.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/environments/environment.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/main.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/polyfills.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/test.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/tsconfig.app.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/tsconfig.spec.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/src/typings.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/tsconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../assignment1/tslint.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/basics-assignment-2-start.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/basics-assignment-2-start.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/.angular-cli.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/e2e/app.e2e-spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/e2e/app.po.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/e2e/tsconfig.e2e.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/how-to-use.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/protractor.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/app.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/app.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/app.component.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/app.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/app.module.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/basic highlight/basic-highlight.directive.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/app/better-highlight/better-highlight.directive.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/assets/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/environments/environment.prod.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/environments/environment.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/main.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/polyfills.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/test.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/tsconfig.app.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/tsconfig.spec.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/src/typings.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/tsconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/directives-start/directives-start/tslint.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/.angular-cli.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/e2e/app.e2e-spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/e2e/app.po.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/e2e/tsconfig.e2e.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/how-to-use.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/protractor.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/app.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/app.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/app.component.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/app.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/app.module.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/server/server.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/server/server.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/server/server.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/servers/servers.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/servers/servers.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/app/servers/servers.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/assets/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/environments/environment.prod.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/environments/environment.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/main.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/polyfills.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/test.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/tsconfig.app.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/tsconfig.spec.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/src/typings.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/tsconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/project-template/project-template/tslint.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../../../Javascript/learning/arrowFucntions.js" />
+      <change beforePath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/app.component.ts" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/app.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.html" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/index.html" afterPath="$PROJECT_DIR$/../../../Bootstrap-Course/cmp-databinding-start/src/index.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/app.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/app.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/app.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/header/header.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/header/header.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/header/header.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/header/header.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.spec.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-list.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-list.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-list.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipe-list/recipe-list.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipes.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipes.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipes.component.spec.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipes.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/recipes/recipes.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-list.component.html" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-list.component.html" />
+      <change beforePath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-list.component.ts" afterPath="$PROJECT_DIR$/../../../RecipeProject/src/app/shopping-list/shopping-list.component.ts" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1186" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basics-assignment-2-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basics-assignment-2-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basics-assignment-2-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basics-assignment-2-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa6fb1f-6287-4ac9-bf8a-327fd7acc8d8" name="Default" comment="" />
+      <created>1518976110780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518976110780</updated>
+      <workItem from="1518976112401" duration="228000" />
+      <workItem from="1518976352291" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
