@@ -7,6 +7,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1c813253-9b7c-4334-a280-ebda7eda12e0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-detail/recipe-detail.component.html" afterPath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe.model.ts" afterPath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe.model.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe.service.ts" afterPath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.component.ts" afterPath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.service.ts" afterPath="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.service.ts" />
     </list>
     <ignored path="Software_Engineering_Fundamentals-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +32,7 @@
     <favorites_list name="Software_Engineering_Fundamentals-" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,14 +133,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Angular/Learning/my-first-angular-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/Angular/Learning/project2/node_modules" />
     <handled-path value="$PROJECT_DIR$/Projects/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1821" />
-    <option name="y" value="185" />
-    <option name="width" value="1399" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -270,7 +276,25 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/project2/src/app/server/server.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/header/header.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/header/header.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-list.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-list.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-list.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-list.component.ts</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -278,100 +302,333 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/.angular-cli.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/.editorconfig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/.gitignore</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/README.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/e2e/app.e2e-spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/e2e/app.po.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/e2e/tsconfig.e2e.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/karma.conf.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/package-lock.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/package.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/protractor.conf.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/app.module.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/server/server.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/server/server.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/server/servers.components.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/servers/servers.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/servers/servers.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/servers/servers.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/assets/.gitkeep</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/environments/environment.prod.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/environments/environment.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/favicon.ico</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/main.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/polyfills.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/styles.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/test.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/tsconfig.app.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/tsconfig.spec.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/typings.d.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/tsconfig.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/tslint.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/.angular-cli.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/.editorconfig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/.gitignore</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/README.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/e2e/app.e2e-spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/e2e/app.po.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/e2e/tsconfig.e2e.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/karma.conf.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/package-lock.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/package.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/protractor.conf.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.component.spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/app.module.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/header/header.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/header/header.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/header/header.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-list.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-list.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-list.component.spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-list/recipe-list.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe.model.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.spec.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shared/ingredient.model.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-edit/shopping-edit.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-list.component.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-list.component.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/shopping-list/shopping-list.component.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/assets/.gitkeep</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/environments/environment.prod.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/environments/environment.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/favicon.ico</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/main.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/polyfills.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/styles.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/test.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/tsconfig.app.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/tsconfig.spec.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/typings.d.ts</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/tsconfig.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/tslint.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Code Kata/hello.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Code Kata/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/app/app.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 4 starting code/cmp-databinding-assignment-start/cmp-databinding-assignment-start/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 5/services-assignment-start/services-assignment-start/src/app/counter.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment 5/services-assignment-start/services-assignment-start/src/app/users.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/even/even.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/even/even.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/even/even.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/game-control/game-control.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/game-control/game-control.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/game-control/game-control.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/odd/odd.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/odd/odd.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/app/odd/odd.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/Assignment4/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/app.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/even/even.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/even/even.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/even/even.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/game-control/game-control.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/game-control/game-control.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/game-control/game-control.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/odd/odd.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/odd/odd.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/odd/odd.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/success-alert/success-alert.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/success-alert/success-alert.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/success-alert/success-alert.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/warning-alert/warning-alert.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/warning-alert/warning-alert.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/app/warning-alert/warning-alert.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/assignment- 1,2,3/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/.idea/basics-assignment-2-start.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/.idea/inspectionProfiles/Project_Default.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/basics-assignment-2-start/.idea/basics-assignment-2-start.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/basics-assignment-2-start/.idea/codeStyles/codeStyleConfig.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/basics-assignment-2-start/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/basics-assignment-2-start/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Assignments/basics-assignment-2-start/basics-assignment-2-start/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/cockpit/cockpit.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/cockpit/cockpit.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/cockpit/cockpit.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/server-element/server-element.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/server-element/server-element.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/app/server-element/server-element.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/cmp-databinding-start/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/debugging/debugging/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/app.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/basic-hightlight/basic-highlight.directive.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/better-highlight/better-hightlight.directive.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/app/unless.directive.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/directives-start/directives-start/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/app.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/server/server.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/server/server.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/server/server.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/servers/servers.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/servers/servers.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/app/servers/servers.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/project-template/project-template/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/e2e/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/account/account.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/account/account.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/account/account.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/app.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/new-account/new-account.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/new-account/new-account.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/app/new-account/new-account.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/src/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services-start/services-start/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services/services/src/app/account.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/services/services/src/app/logging.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/header/header.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/header/header.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/header/header.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-detail/recipe-detail.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-detail/recipe-detail.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-detail/recipe-detail.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-list/recipe-list.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-list/recipe-list.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe-list/recipe-list.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe.model.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipe.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipes.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipes.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/recipes/recipes.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shared/dropdown.directive.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shared/ingredient.model.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-edit/shopping-edit.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-edit/shopping-edit.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-edit/shopping-edit.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/shopping-list/shopping-list.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/project2/Person/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Javascript/learning/arrowFucntions.js</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -379,6 +636,51 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/.angular-cli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/e2e/app.e2e-spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/e2e/app.po.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/e2e/tsconfig.e2e.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/how-to-use.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/app.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/app.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/cockpit/cockpit.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/cockpit/cockpit.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/cockpit/cockpit.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/app/server-element/server-element.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/assets/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/favicon.ico</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/main.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/test.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/tsconfig.app.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/tsconfig.spec.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/src/typings.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/tsconfig.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Bootstrap-Course/cmp-databinding-start/tslint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/server/server.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/server/server.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/server/servers.components.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/servers/servers.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/servers/servers.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/Learning/my-first-angular-app/src/app/servers/servers.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipe-detail/recipe-detail.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Angular/RecipeProject/src/app/recipes/recipes.component.spec.ts</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -661,6 +963,7 @@
       <workItem from="1518471284556" duration="705000" />
       <workItem from="1518487809986" duration="9000" />
       <workItem from="1518547049321" duration="578000" />
+      <workItem from="1519580736895" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="Some updates&#10;">
       <created>1499067859712</created>
@@ -785,25 +1088,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172236000" />
+    <option name="totallyTimeSpent" value="172830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1821" y="185" width="1399" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2394775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23890063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3478261" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27807972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34701493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19115324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17786069" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1003,7 +1307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,7 +1329,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1036,7 +1338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,7 +1345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,7 +1352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,7 +1359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,7 +1366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,7 +1373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,25 +1380,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_2/forLoops :)/node_modules/isarray/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_2/forLoops :)/node_modules/isarray/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_2/forLoops :)/node_modules/isarray/Makefile" />
+    <entry file="file://$PROJECT_DIR$/Learning Javascript/Quick_start_to_Javascript_Volume_2/forLoops :)/node_modules/isarray/package.json" />
   </component>
 </project>
