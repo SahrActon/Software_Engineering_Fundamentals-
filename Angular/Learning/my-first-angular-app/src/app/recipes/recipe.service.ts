@@ -1,7 +1,8 @@
-import {EventEmitter, OnInit} from '@angular/core';
+import {EventEmitter, Injectable, OnInit} from '@angular/core';
 import {Recipe} from './recipe.model';
 import {Ingredient} from '../shared/ingredient.model';
-
+import {ShoppingListService} from '../shopping-list/shopping-list.service';
+@Injectable()
 export class RecipeService implements OnInit {
 
   recipeSelected = new EventEmitter<Recipe>();
@@ -26,14 +27,19 @@ export class RecipeService implements OnInit {
         new Ingredient('Beef (in kg) ', 12)
       ])
   ];
+  constructor(private  shoppingListService: ShoppingListService) {
+  }
+
+  ngOnInit() {
+  }
 
   getRecipes() {
     return this.recipes.slice();
   }
 
-  constructor() {
+  addIngredientsToShoppingList(ingredients: Ingredient[]) {
+    this.shoppingListService.addIngredients(ingredients);
+
   }
 
-  ngOnInit() {
-  }
 }
